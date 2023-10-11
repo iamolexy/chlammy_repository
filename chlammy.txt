@@ -3,3 +3,4 @@ Test case title: Negative Vibes Only
 Steps to reproduce: 1,2,3
 
 family newspaper
+Info about newspaper version
