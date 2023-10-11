@@ -3,6 +3,10 @@ Test case title: Negative Vibes Only
 Steps to reproduce: 1,2,3
 
 family newspaper
+<<<<<<< HEAD
 Info about newspaper version
 newspaper version 0077
 newspaper version 0078
+=======
+Info about newspaper version
+>>>>>>> 7043819c8144fdf471792e909c1c82b1a4563091
