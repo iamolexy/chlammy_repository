@@ -5,3 +5,4 @@ Steps to reproduce: 1,2,3
 family newspaper
 Info about newspaper version
 newspaper version 0077
+newspaper version 0078
